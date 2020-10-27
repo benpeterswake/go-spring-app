@@ -1,0 +1,13 @@
+{
+    "spring": {
+        "gpa": {
+            "platform": "postgres",
+            "datasource": {
+                "name": "gospringtest",
+                "address": "localhost",
+                "username": "BPeters58",
+                "password": "123456"
+            }
+        }
+    }
+}
